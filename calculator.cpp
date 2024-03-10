@@ -22,7 +22,8 @@ int remainder(int a,int b){
 }
 
 
-int main(){
+int main()
+{
     int a,b;
     char operation;
     cout<<"enter the numbers\n";
@@ -62,6 +63,3 @@ int main(){
         cout<<"please chose the correct operation\n";
         break;
     }
-
-    return 0;
-}
