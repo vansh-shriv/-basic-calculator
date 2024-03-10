@@ -1,6 +1,7 @@
 #include<iostream>
-using namespace std;
+using namespace std;\
 
+// hey i started a oode for calculator
 int add(int a,int b){
     return (a+b);
 }
